@@ -45,3 +45,18 @@ El sistema está diseñado para ser flexible según la complejidad de la producc
 > - **vMix API:** Debe estar habilitada en `Settings > Web Controller` (puerto 8088 por defecto).
 > - **Diseño del Título:** El Input en vMix debe contener campos de texto cuyos nombres coincidan EXACTAMENTE con los definidos en el código (ej. `Categoria`, `N° auto`, `PilotoNavegante`, etc.).
 > - **Conectividad:** Si se usa desde otra PC, asegúrate de cambiar `127.0.0.1` en el código por la dirección IP local de la computadora que tiene vMix.
+> -
+
+
+🖼️ Galería del Sistema
+
+A continuación se muestran algunas capturas de la herramienta en funcionamiento y su integración con vMix:
+
+Interfaz de Control
+![Panel de Control de Tiempos](CAPTURA.jpeg)
+Aquí se puede ver el panel principal desde donde el operador gestiona los tiempos y el modo automático.
+
+![Titulo en directo](TIME LIVE.jpeg)
+Integración en Directo 
+![Panel de Control de Tiempos](GENERALES.jpeg)
+
