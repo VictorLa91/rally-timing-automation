@@ -30,9 +30,9 @@ Antes de ejecutar el script, asegúrate de tener instalado:
 
 ### 1. Clonar el repositorio o descargar el código
 ```bash
-git clone [https://github.com/VictorLa91/rally-timing-automation.git](https://github.com/VictorLa91/rally-timing-automation.git)
+git clone https://github.com/VictorLa91/rally-timing-automation.git
 cd rally-timing-automation
-
+```
 
 ## 📡 Escenarios de Despliegue
 
