@@ -52,13 +52,16 @@ El sistema está diseñado para ser flexible según la complejidad de la producc
 
 A continuación se muestran algunas capturas de la herramienta en funcionamiento y su integración con vMix:
 
-Interfaz de Control
+## Interfaz de Control
 ![Panel de Control de Tiempos](CAPTURA.jpeg)
-Aquí se puede ver el panel principal desde donde el operador gestiona los tiempos y el modo automático.
+Aquí se puede ver el panel principal (en la pantalla ubicada en el medio) desde donde el operador gestiona los tiempos y el modo automático.
 
-Time Live
+
+## Integración en Directo 
 ![Panel de Control de Tiempos](TIME.jpeg)
+Resultados en vivo, donde el scrip va ingresando tiempos a medida que van entrando
 
-Integración en Directo 
+## Opcional, titulo de clasificacion general 
 ![Panel de Control de Tiempos](GENERALES.jpeg)
+
 
