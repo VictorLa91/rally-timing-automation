@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.lib/
+lib64/
+parts/
+sdist/
+var/
+
+# IDEs (Visual Studio Code, PyCharm)
+.vscode/
+.idea/
+
+# Datos sensibles (¡IMPORTANTE!)
+# Si guardas IPs o claves en un archivo .txt o .json aparte, agregalos acá:
+config_privada.json
+datos_acceso.txt
