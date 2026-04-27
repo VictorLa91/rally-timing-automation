@@ -56,7 +56,8 @@ Interfaz de Control
 ![Panel de Control de Tiempos](CAPTURA.jpeg)
 Aquí se puede ver el panel principal desde donde el operador gestiona los tiempos y el modo automático.
 
-![Titulo en directo](TIME LIVE.jpeg)
+![Titulo en directo](TIME)
+
 Integración en Directo 
 ![Panel de Control de Tiempos](GENERALES.jpeg)
 
